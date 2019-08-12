@@ -57,6 +57,35 @@
     <None Include="App.config" />
     <None Include="db2spcdb.bnd" />
     <None Include="packages.config" />
+    <None Include="packages\EntityFramework.6.2.0\content\net40\App.config.transform" />
+    <None Include="packages\EntityFramework.6.2.0\content\net40\Web.config.transform" />
+    <None Include="packages\EntityFramework.6.2.0\EntityFramework.6.2.0.nupkg" />
+    <None Include="packages\EntityFramework.6.2.0\tools\EntityFramework.psd1" />
+    <None Include="packages\EntityFramework.6.2.0\tools\EntityFramework.psm1" />
+    <None Include="packages\EntityFramework.6.2.0\tools\init.ps1" />
+    <None Include="packages\EntityFramework.6.2.0\tools\install.ps1" />
+    <None Include="packages\EntityFramework.IBM.DB2.6.1.0\.signature.p7s" />
+    <None Include="packages\EntityFramework.IBM.DB2.6.1.0\content\App.config.transform" />
+    <None Include="packages\EntityFramework.IBM.DB2.6.1.0\content\db2spcdb.bnd" />
+    <None Include="packages\EntityFramework.IBM.DB2.6.1.0\content\Web.config.transform" />
+    <None Include="packages\EntityFramework.IBM.DB2.6.1.0\EntityFramework.IBM.DB2.6.1.0.nupkg" />
+    <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages\EntityFramework.6.2.0\lib\net40\EntityFramework.dll" />
+    <Content Include="packages\EntityFramework.6.2.0\lib\net40\EntityFramework.SqlServer.dll" />
+    <Content Include="packages\EntityFramework.6.2.0\lib\net40\EntityFramework.SqlServer.xml" />
+    <Content Include="packages\EntityFramework.6.2.0\lib\net40\EntityFramework.xml" />
+    <Content Include="packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll" />
+    <Content Include="packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll" />
+    <Content Include="packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.xml" />
+    <Content Include="packages\EntityFramework.6.2.0\lib\net45\EntityFramework.xml" />
+    <Content Include="packages\EntityFramework.6.2.0\tools\about_EntityFramework.help.txt" />
+    <Content Include="packages\EntityFramework.6.2.0\tools\EntityFramework.PowerShell.dll" />
+    <Content Include="packages\EntityFramework.6.2.0\tools\EntityFramework.PowerShell.Utility.dll" />
+    <Content Include="packages\EntityFramework.6.2.0\tools\migrate.exe" />
+    <Content Include="packages\EntityFramework.IBM.DB2.6.1.0\lib\net40\IBM.Data.DB2.EntityFramework.dll" />
+    <Content Include="packages\EntityFramework.IBM.DB2.6.1.0\Readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
